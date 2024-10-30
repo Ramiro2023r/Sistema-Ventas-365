@@ -1,0 +1,19 @@
+
+.sidebar-left {
+    position: fixed;
+
+    left: 190px;
+}
+
+.perfil {
+    position: fixed;
+
+    right: 100px;
+}
+
+/* Añade esta clase en tu archivo CSS */
+.card.small-box:hover {
+    transform: scale(1.05);
+    transition: transform .5s ease;
+}
+

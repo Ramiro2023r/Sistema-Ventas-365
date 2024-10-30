@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaVentas365.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SistemaVentas365.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosMenuP.css",
+      "PackagePath": "staticwebassets\\Estilos\\EstilosMenuP.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosRegistraUsuario.css",
+      "PackagePath": "staticwebassets\\Estilos\\EstilosRegistraUsuario.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosSeCerrada.css",
+      "PackagePath": "staticwebassets\\Estilos\\EstilosSeCerrada.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosTienda.css",
+      "PackagePath": "staticwebassets\\Estilos\\EstilosTienda.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\Sclientes.css",
+      "PackagePath": "staticwebassets\\Estilos\\Sclientes.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\archivos.js",
+      "PackagePath": "staticwebassets\\Estilos\\archivos.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosalert.css",
+      "PackagePath": "staticwebassets\\Estilos\\estilosalert.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosindex.css",
+      "PackagePath": "staticwebassets\\Estilos\\estilosindex.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\styles.css",
+      "PackagePath": "staticwebassets\\Estilos\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\archivos\\Archivos_menuP.js",
+      "PackagePath": "staticwebassets\\archivos\\Archivos_menuP.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\archivos\\archivos.js",
+      "PackagePath": "staticwebassets\\archivos\\archivos.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\archivos\\script.js",
+      "PackagePath": "staticwebassets\\archivos\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\jquery.min.js",
+      "PackagePath": "staticwebassets\\css\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\jquery.min.map",
+      "PackagePath": "staticwebassets\\css\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\el.png",
+      "PackagePath": "staticwebassets\\dist\\img\\el.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\img\\yo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\yo.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\Camion.jpg",
+      "PackagePath": "staticwebassets\\img\\Camion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\camionable.jpg",
+      "PackagePath": "staticwebassets\\img\\camionable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\camionnegro.jpg",
+      "PackagePath": "staticwebassets\\img\\camionnegro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\carrosDepor.png",
+      "PackagePath": "staticwebassets\\img\\carrosDepor.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\chevrolet.jpg",
+      "PackagePath": "staticwebassets\\img\\chevrolet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\deletemar.png",
+      "PackagePath": "staticwebassets\\img\\deletemar.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\ford.jpg",
+      "PackagePath": "staticwebassets\\img\\ford.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\instagran.png",
+      "PackagePath": "staticwebassets\\img\\instagran.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo34.jpg",
+      "PackagePath": "staticwebassets\\img\\logo34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo4.png",
+      "PackagePath": "staticwebassets\\img\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\logo7.png",
+      "PackagePath": "staticwebassets\\img\\logo7.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\motos.jpg",
+      "PackagePath": "staticwebassets\\img\\motos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\motos3.jpeg",
+      "PackagePath": "staticwebassets\\img\\motos3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\nissan.jpg",
+      "PackagePath": "staticwebassets\\img\\nissan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\pisteras.jpg",
+      "PackagePath": "staticwebassets\\img\\pisteras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\renault.jpg",
+      "PackagePath": "staticwebassets\\img\\renault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\ronal.jpg",
+      "PackagePath": "staticwebassets\\img\\ronal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\toyota.jpg",
+      "PackagePath": "staticwebassets\\img\\toyota.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\updatemar.png",
+      "PackagePath": "staticwebassets\\img\\updatemar.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\yo.png",
+      "PackagePath": "staticwebassets\\img\\yo.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\img\\youtube.png",
+      "PackagePath": "staticwebassets\\img\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\plugins\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-be.json",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-be.json"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-codes.json",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-codes.json"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\input-mask\\phone-codes\\readme.txt",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jQueryUI\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jQueryUI\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jQueryUI\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jQueryUI\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\pace\\pace.css",
+      "PackagePath": "staticwebassets\\plugins\\pace\\pace.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\pace\\pace.js",
+      "PackagePath": "staticwebassets\\plugins\\pace\\pace.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\plugins\\pace\\pace.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\seiyria-bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\plugins\\seiyria-bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\seiyria-bootstrap-slider\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\plugins\\seiyria-bootstrap-slider\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\seiyria-bootstrap-slider\\css\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\plugins\\seiyria-bootstrap-slider\\css\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\seiyria-bootstrap-slider\\css\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\plugins\\seiyria-bootstrap-slider\\css\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SistemaVentas365.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SistemaVentas365.props",
+      "PackagePath": "build\\SistemaVentas365.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SistemaVentas365.props",
+      "PackagePath": "buildMultiTargeting\\SistemaVentas365.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SistemaVentas365.props",
+      "PackagePath": "buildTransitive\\SistemaVentas365.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,9 @@
+
+
+.bod {
+        background-color: #f7f7f7;
+        font-family: Arial, sans-serif;
+        /*este codigo es la color del fondo */
+       background: linear-gradient(to left, White, #002c44);
+       /*  background: -webkit-linear-gradient(left, #002C44 50%, #fff 50%);*/
+      }

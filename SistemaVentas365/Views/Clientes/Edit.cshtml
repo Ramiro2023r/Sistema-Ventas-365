@@ -1,0 +1,121 @@
+﻿@model SistemaVentas365.Models.Cliente
+
+@{
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+<h2 style="text-align:center;">Editar Cliente</h2>
+<a asp-action="ListPaClientes" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Volver Atrás
+</a>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit" class="needs-validation" novalidate id="miFormulario">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Primera fila -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Dni" class="control-label"></label>
+                            <input asp-for="Dni" class="form-control" required />
+                            <span asp-validation-for="Dni" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Nombre" class="control-label"></label>
+                            <input asp-for="Nombre" class="form-control" required />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Segunda fila -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Telefono" class="control-label"></label>
+                            <input asp-for="Telefono" class="form-control" required />
+                            <span asp-validation-for="Telefono" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Direccion" class="control-label"></label>
+                            <input asp-for="Direccion" class="form-control" required />
+                            <span asp-validation-for="Direccion" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tercera fila -->
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Fecha" class="control-label"></label>
+                            <input asp-for="Fecha" class="form-control" required />
+                            <span asp-validation-for="Fecha" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Estado" class="control-label"></label>
+                            <input asp-for="Estado" class="form-control" required />
+                            <span asp-validation-for="Estado" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Botón de submit -->
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Agrega un event listener para el evento submit del formulario
+            document.getElementById('miFormulario').addEventListener('submit', function (event) {
+                // Evita que el formulario se envíe de forma predeterminada
+                event.preventDefault();
+
+                // Muestra el mensaje de éxito usando SweetAlert2
+                Swal.fire({
+                    position: "top-end",
+                    icon: "success",
+                    title: "Registro Editado con Exito",
+                    showConfirmButton: false,
+                    timer: 1500,
+                    // Función que se ejecutará cuando se cierre el mensaje
+                    didClose: function () {
+                        // Envía el formulario después de mostrar el mensaje
+                        document.getElementById('miFormulario').submit();
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+
+
+

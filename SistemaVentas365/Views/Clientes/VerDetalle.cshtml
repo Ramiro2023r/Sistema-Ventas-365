@@ -1,0 +1,51 @@
+﻿@model SistemaVentas365.Models.Cliente
+
+@{
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+<h2 style="text-align:center;">Detalles</h2>
+<di>
+<a asp-action="ListPaClientes" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Volver Atrás
+</a>
+
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a> |
+  
+
+</di>
+
+<br />
+<br />
+
+<div class="container">
+    <div class="alert alert-info">
+        <h4>Detalles del Cliente</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">Documento de Identidad:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Dni)</dd>
+
+            <dt class="col-sm-3">Nombre:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Nombre)</dd>
+
+            <dt class="col-sm-3">Teléfono:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Telefono)</dd>
+
+            <dt class="col-sm-3">Dirección:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Direccion)</dd>
+
+            <dt class="col-sm-3">Fecha:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Fecha)</dd>
+
+            <dt class="col-sm-3">Estado:</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Estado)</dd>
+        </dl>
+    </div>
+</div>
+
+   
+</div>

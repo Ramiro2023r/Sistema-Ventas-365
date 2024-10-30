@@ -1,0 +1,93 @@
+﻿@model SistemaVentas365.Models.Productos
+
+@{
+    ViewData["Title"] = "DeletePro";
+}
+
+<h2>DeletePro</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Productos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Foto)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Foto)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoBarras)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CodigoBarras)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioCompra)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PrecioCompra)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioVenta)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PrecioVenta)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cantidad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Idmedida)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idmedida)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreM)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NombreM)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Idcategoria)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idcategoria)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreC)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NombreC)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeletePro">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

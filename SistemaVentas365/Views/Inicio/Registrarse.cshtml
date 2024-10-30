@@ -1,0 +1,154 @@
+﻿@model SistemaVentas365.Models.Usuario;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registrarse</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/Estilos/estilosindex.css">
+    <style>
+
+        .bod {
+            background-color: #f7f7f7;
+            font-family: Arial, sans-serif;
+            /*este codigo es la color del fondo */
+            background: linear-gradient(to left, White, #002c44);
+            /*  background: -webkit-linear-gradient(left, #002C44 50%, #fff 50%);*/
+        }
+    </style>
+</head>
+<body class="bod">
+
+    <header>
+        <h1 class="nombre1">GestiónVenta|365 </h1>
+    </header>
+
+   
+        <div class="row justify-content-center" style="height: 435px">
+
+            <div class="col-8 col-xl-4 col-md-4">
+
+                <div >
+                    <div>
+                        <h1 style="font-family:20px;text-align:center;color:white"> Registrate</h1>
+
+                       
+                            <form asp-controller="Inicio" asp-action="Registrarse" method="post" >
+                                <div class="row mb-3">
+                                    <div class="col">
+                                        <label for="usuario" class="form-label">Usuario</label>
+                                        <input id="usuario" class="form-control" type="text" placeholder="Usuario" asp-for="Usuario1" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="clave" class="form-label">Clave</label>
+                                        <input id="clave" class="form-control" type="password" placeholder="Clave" asp-for="Clave" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="nombre" class="form-label">Nombre</label>
+                                        <input id="nombre" class="form-control" type="text" placeholder="Nombre" asp-for="Nombre" required>
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col">
+                                        <label for="correo" class="form-label">Correo</label>
+                                        <input id="correo" class="form-control" type="email" placeholder="Correo" asp-for="Correo" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="telefono" class="form-label">Teléfono</label>
+                                        <input id="telefono" class="form-control" type="text" placeholder="Teléfono" asp-for="Telefono" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="direccion" class="form-label">Dirección</label>
+                                        <input id="direccion" class="form-control" type="text" placeholder="Dirección" asp-for="Direccion" required>
+                                    </div>
+                                </div>
+                               @*  <div class="row mb-3">
+                                    <div class="col">
+                                        <label for="tipo" class="form-label">Tipo</label>
+                                        <input id="tipo" class="form-control" type="text" placeholder="Tipo" asp-for="Tipo" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="fecha" class="form-label">Fecha</label>
+                                        <input id="fecha" class="form-control" type="date" placeholder="Fecha" asp-for="Fecha" required>
+                                    </div>
+                                    <div class="col">
+                                        <label for="estado" class="form-label">Estado</label>
+                                        <input id="estado" class="form-control" type="text" placeholder="Estado" asp-for="Estado" required>
+                                    </div>
+                                </div> *@
+
+                                <div class="d-grid gap-2 mb-3">
+                                    <button class="btn btn-primary" type="submit">Regístrate</button>
+                                </div>
+
+                                @if (ViewData["Mensaje"] != null)
+                                {
+                                    <div class="alert alert-danger" role="alert">
+                                        @ViewData["Mensaje"]
+                                    </div>
+                                }
+
+                                <p>¿Ya tienes una cuenta? <a href="@Url.Action("IniciarSesion", "Inicio")">Iniciar Sesión</a></p>
+
+                            </form>
+                        
+
+
+                    </div>
+
+                  
+   
+
+
+
+
+             
+
+
+            </div>
+
+
+
+
+
+        </div>
+
+        </div>
+  
+       
+
+    <footer>
+        <div class="footer-content">
+            <h3><span>Sistema GestiónVenta|365</span> S.A.C.</h3>
+            <p>Teléfono: 555-1234 | Email: info@sistemagestiónVenta365.com</p>
+            <div class="social-icons">
+
+                <a href="inicio.html"><i> <img class="img1" alt="" src="/img/facebook.png"></i></a>
+                <a href="inicio.html"><i> <img class="img1" alt="" src="/img/instagran.png"></i></a>
+                <a href="inicio.html"><i> <img class="img1" alt="" src="/img/youtube.png"></i></a>
+
+
+
+            </div>
+
+
+        </div>
+
+    </footer>
+
+
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+﻿@model IEnumerable<SistemaVentas365.Models.Cliente>
+
+@{
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+<h2>Busqueda por Nombre</h2>
+<a asp-action="ListPaClientes" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Volver Atrás
+</a>
+
+
+<form asp-action="Filtrar" asp-controller="Clientes">
+    <em>Nombre del Cliente</em>
+    @Html.TextBox("nombre", "")
+    <button>Buscar</button>
+
+</form>
+
+<br />
+<table class="table-futuristic bg-white">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Dni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+               
+
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning", @role = "button" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger", @role = "button", @id = "eliminar" })
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+
+<!-- Controles de paginación -->
+<div class="text-center">
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            @for (int i = 0; i < ViewBag.Paginas; i++)
+            {
+                <li class="page-item @(i == 0 ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Filtrar", "Clientes", new { p = i })">@((i + 1).ToString())</a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>
+

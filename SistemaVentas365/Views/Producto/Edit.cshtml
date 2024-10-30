@@ -1,0 +1,150 @@
+﻿@model SistemaVentas365.Models.Productos
+
+@{
+    ViewBag.Title = "Editar Producto";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+}
+
+<h2 style="text-align:center; font-size:20px;">Editar Producto</h2>
+<a asp-action="ListPaProductos" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Volver Atrás
+</a>
+
+<hr />
+<div class="row" style="justify-content:center">
+    <div class="col-md-4">
+        <form asp-action="Edit" id="miFormulario" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <label for="Foto">Imagen Actual:</label>
+                @if (!string.IsNullOrEmpty(Model.Foto))
+                {
+                    <img id="imgActual" src="@Model.Foto" alt="Imagen del producto" style="width: 100px; height: auto;" />
+                }
+                <img id="imgPreview" style="width: 100px; height: auto; display: none;" alt="Vista previa de la imagen" />
+                <input type="file" id="Foto" name="Foto" accept="image/*" class="form-control-file" onchange="previewImage()">
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CodigoBarras" class="control-label"></label>
+                <input asp-for="CodigoBarras" class="form-control" />
+                <span asp-validation-for="CodigoBarras" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PrecioCompra" class="control-label"></label>
+                <input asp-for="PrecioCompra" class="form-control" />
+                <span asp-validation-for="PrecioCompra" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PrecioVenta" class="control-label"></label>
+                <input asp-for="PrecioVenta" class="form-control" />
+                <span asp-validation-for="PrecioVenta" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Idmedida" class="control-label"></label>
+                <select asp-for="Idmedida" asp-items="@ViewBag.medidas" ></select>
+                <span asp-validation-for="Idmedida" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="display:none">
+                <label asp-for="NombreM" class="control-label"></label>
+                <input asp-for="NombreM" class="form-control" />
+                <span asp-validation-for="NombreM" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Idcategoria" class="control-label"></label>
+                <select asp-for="Idcategoria" asp-items="@ViewBag.categorias" ></select>
+                <span asp-validation-for="Idcategoria" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="display:none">
+                <label asp-for="NombreC" class="control-label"></label>
+                <input asp-for="NombreC" class="form-control" />
+                <span asp-validation-for="NombreC" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                <input asp-for="Estado" class="form-control" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('miFormulario').addEventListener('submit', function (event) {
+                event.preventDefault();
+                Swal.fire({
+                    position: "top-end",
+                    icon: "success",
+                    title: "Registro Editado con Exito",
+                    showConfirmButton: false,
+                    timer: 1500,
+                    didClose: function () {
+                        document.getElementById('miFormulario').submit();
+                    }
+                });
+            });
+        });
+
+        function previewImage() {
+            const imgPreview = document.getElementById('imgPreview');
+            const imgActual = document.getElementById('imgActual');
+            const file = document.getElementById('Foto').files[0];
+            const reader = new FileReader();
+
+            if (file) {
+                reader.onload = function (e) {
+                    imgPreview.src = e.target.result;
+                    imgPreview.style.display = 'block';
+                    if (imgActual) {
+                        imgActual.style.display = 'none';
+                    }
+                };
+
+                reader.readAsDataURL(file);
+            } else {
+                imgPreview.src = '';
+                imgPreview.style.display = 'none';
+                if (imgActual) {
+                    imgActual.style.display = 'block';
+                }
+            }
+        }
+    </script>
+}

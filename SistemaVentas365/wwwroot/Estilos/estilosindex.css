@@ -1,0 +1,154 @@
+
+
+
+        /*estilos del color de fondo */
+.bod {
+        background-color: #f7f7f7;
+        font-family: Arial, sans-serif;
+        /*este codigo es la color del fondo */
+       background: linear-gradient(to left, White, #002c44);
+       /*  background: -webkit-linear-gradient(left, #002C44 50%, #fff 50%);*/
+      }
+
+      h2 {
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 20px;
+        color:#002c44;
+      }
+
+
+         .nombre1 {
+    animation: fade 2s infinite;
+    color:white;
+
+  }
+
+        .subtitulo{
+
+      text-align: center;
+      font-family:monospace;
+      font-size: 15px;
+      color:#002c44;
+      }
+
+        form {
+        margin: 0 auto;
+        max-width: 400px;
+        width:400px;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        box-shadow: 2px 2px 20px rgba(0,0,0,0.3);
+        border-radius: 5px;
+
+      }
+
+        .coment{
+
+ display:inline-block;
+
+  color:white;
+  max-width: 300px;
+  z-index: -1;
+  margin-top: -80%;
+  margin-left: 40px;
+  height: 140px;
+  width: 200px;
+  font-size: 11px;
+  }
+
+        @keyframes fade {
+    0% {
+      opacity: 0;
+      visibility: hidden;
+    }
+    50% {
+      opacity: 1;
+      visibility: visible;
+    }
+    100% {
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
+        .error{
+        width:25px;
+        height:
+        }
+
+        .subtitulodos{
+
+      color:gray;
+      font-size: 10px;
+      text-align: center;
+
+      }
+      .subtitulotres{
+      color:black;
+      text-align:center;
+
+      font-size: 15;
+
+      }
+
+              /* estilos del footer*/
+
+ footer {
+  background-color:#002c44;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 25px;
+  height: 160px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+
+/*estilos de las img de redes sosiales*/
+
+.img1{
+	border: solid white ;
+	border-radius:25px;
+}
+
+.social-icons {
+  margin-top: 10px;
+  display:flex;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #fff;
+  font-size: 20px;
+}
+.social-icons a,i,img{
+	width: 50px;
+	height: 50px;
+
+}
+
+.social-icons a:hover {
+  color: #f00;
+}
+
+.imgeflex1 {
+    display: flex;
+}
+.imgeflex2 {
+    display: flex;
+
+}
+.imagenlogo{
+  border-radius:28px;
+
+}
+
+
+/*estilos de botn de inicio de sesion */

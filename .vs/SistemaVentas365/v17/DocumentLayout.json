@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\estilosmenup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\estilosmenup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\archivos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\archivos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\estilosindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\estilosindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\sclientes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\sclientes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\estilosalert.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\estilosalert.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\wwwroot\\estilos\\estilosregistrausuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\wwwroot\\estilos\\estilosregistrausuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\controllers\\medidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\controllers\\medidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|c:\\users\\ronal\\source\\repos\\sistemaventas365\\sistemaventas365\\views\\inicio\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8872ECA0-707D-4491-81A5-F13DF8D47623}|SistemaVentas365\\SistemaVentas365.csproj|solutionrelative:sistemaventas365\\views\\inicio\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "archivos.js",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\archivos.js",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\archivos.js",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\archivos.js",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\archivos.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T06:29:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\styles.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\styles.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\styles.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T06:29:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sclientes.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\Sclientes.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\Sclientes.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\Sclientes.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\Sclientes.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T06:28:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "estilosalert.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosalert.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\estilosalert.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosalert.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\estilosalert.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T06:28:34.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstilosMenuP.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosMenuP.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\EstilosMenuP.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosMenuP.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\EstilosMenuP.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T06:27:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "estilosindex.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosindex.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\estilosindex.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\estilosindex.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\estilosindex.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T05:32:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstilosRegistraUsuario.css",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosRegistraUsuario.css",
+              "RelativeDocumentMoniker": "SistemaVentas365\\wwwroot\\Estilos\\EstilosRegistraUsuario.css",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\wwwroot\\Estilos\\EstilosRegistraUsuario.css",
+              "RelativeToolTip": "SistemaVentas365\\wwwroot\\Estilos\\EstilosRegistraUsuario.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T05:30:31.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Models\\Productos.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Models\\Productos.cs",
+              "RelativeToolTip": "SistemaVentas365\\Models\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:05:54.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedidasController.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Controllers\\MedidasController.cs",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Controllers\\MedidasController.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Controllers\\MedidasController.cs",
+              "RelativeToolTip": "SistemaVentas365\\Controllers\\MedidasController.cs",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:35:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutMaster.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Shared\\_LayoutMaster.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Shared\\_LayoutMaster.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:37.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\Menu.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Inicio\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\Menu.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Inicio\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaVentas365\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAgwI4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:46:37.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentas365\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\SistemaVentas365\\SistemaVentas365\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "SistemaVentas365\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAD0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T03:19:59.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

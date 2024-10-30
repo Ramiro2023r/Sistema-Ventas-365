@@ -1,0 +1,104 @@
+﻿@model Cliente
+
+@{
+    ViewBag.Title = "Registrar Cliente";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+
+<button type="button" class="btn btn-primary" @* onclick="redirectToAgregarCliente()" *@ data-toggle="modal" data-target="#exampleModal">
+    <i class="fas fa-plus-circle"></i> Modal
+</button>
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal Registrar Cliente</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+
+
+
+                *******
+
+
+                
+                <h1 class="text-center">@ViewData["Title"]</h1>
+
+                @if (!string.IsNullOrEmpty(ViewBag.Mensaje))
+                {
+                    <div class="alert alert-info" role="alert">
+                        @ViewBag.Mensaje
+                    </div>
+                }
+                <div>
+                    <a asp-action="ListPaClientes" class="btn btn-warning">
+                        <i class="fas fa-arrow-left"></i> Regresar a la Lista
+                    </a>
+                </div>
+
+
+               
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <form asp-action="AgregarCliente" class="mt-4">
+                                <!-- Los campos ocultos para Estado y Fecha se agregarán automáticamente con los valores predeterminados -->
+                                <input type="hidden" asp-for="Estado" />
+                                <input type="hidden" asp-for="Fecha" />
+                                <div class="form-group">
+                                    <label asp-for="Dni" class="control-label">DNI:</label>
+                                    <input asp-for="Dni" class="form-control" />
+                                    <span asp-validation-for="Dni" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Nombre" class="control-label">Nombre:</label>
+                                    <input asp-for="Nombre" class="form-control" />
+                                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Telefono" class="control-label">Teléfono:</label>
+                                    <input asp-for="Telefono" class="form-control" />
+                                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Direccion" class="control-label">Dirección:</label>
+                                    <input asp-for="Direccion" class="form-control" />
+                                    <span asp-validation-for="Direccion" class="text-danger"></span>
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-block">Guardar</button>
+
+                            </form>
+
+
+
+                        </div>
+
+                    </div>
+               
+
+
+                *******
+
+            <div class="modal-footer">
+              @*   <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button> *@
+                @* <button type="button" class="btn btn-primary">Save changes</button> *@
+            </div>
+        </div>
+    </div>
+</div>
+
+   
+
+

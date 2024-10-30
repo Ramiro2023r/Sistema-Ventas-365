@@ -1,0 +1,62 @@
+﻿@model SistemaVentas365.Models.Proveedores
+@{
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+
+<h2>Create</h2>
+
+<h4>Proveedores</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <!-- Los campos ocultos para Estado y Fecha se agregarán automáticamente con los valores predeterminados -->
+            <input type="hidden" asp-for="Fecha" />
+            <input type="hidden" asp-for="Estado" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ruc" class="control-label"></label>
+                <input asp-for="Ruc" class="form-control" />
+                <span asp-validation-for="Ruc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Direccion" class="control-label"></label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+          @*   <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                <input asp-for="Estado" class="form-control" />
+                <span asp-validation-for="Estado" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ListPaProveedores">Back to List</a>
+</div>
+

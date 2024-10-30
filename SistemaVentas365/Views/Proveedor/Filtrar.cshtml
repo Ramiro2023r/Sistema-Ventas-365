@@ -1,0 +1,85 @@
+﻿@model IEnumerable<SistemaVentas365.Models.Proveedor>
+
+@{
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+
+
+}
+
+
+<a asp-action="ListPaProveedores" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Volver Atrás
+</a>
+
+
+
+
+<h2 style="text-align:center;">Filtro de Proveedores</h2>
+<form asp-action="Filtrar" asp-controller="Proveedor">
+    <em>Nombre del Provedores</em>
+    @Html.TextBox("nombre", "")
+    <button>Buscar</button>
+
+</form>
+
+<br />
+<table class="table-futuristic bg-white">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Ruc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ruc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+               @*  <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> *@
+
+
+                    @Html.ActionLink("Detalles", "VerDetalle", new { id = item.Id }, new { @class = "btn btn-primary", @role = "button" }) |
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning", @role = "button" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger", @role = "button", @id = "eliminar" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

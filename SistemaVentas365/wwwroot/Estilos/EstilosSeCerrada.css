@@ -1,0 +1,79 @@
+
+     .bod {
+             background-color: #f7f7f7;
+             font-family: Arial, sans-serif;
+             /*este codigo es la color del fondo */
+            background: linear-gradient(to left, White, #002c44);
+            /*  background: -webkit-linear-gradient(left, #002C44 50%, #fff 50%);*/
+           }
+                 .nombre1 {
+               animation: fade 2s infinite;
+               color:white;
+               margin-right:85%;
+
+             }
+
+              @keyframes fade {
+                 0% {
+                   opacity: 0;
+                   visibility: hidden;
+                 }
+                 50% {
+                   opacity: 1;
+                   visibility: visible;
+                 }
+                 100% {
+                   opacity: 0;
+                   visibility: hidden;
+                 }
+               }
+                     .error{
+                     width:25px;
+                     height:;
+                     }
+
+                     .herr{
+                         height:70px;
+                         margin-top:-50px;
+                     }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            text-align: center;
+            padding: 50px 0;
+            height:500px;
+            margin-bottom:60px;
+        }
+
+        .oops {
+            font-size: 80px;
+            color: #333;
+            margin-top: -90px;
+        }
+
+        .code {
+            font-size: 30px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .message {
+            font-size: 20px;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .contact {
+            font-size: 14px;
+            color: white;
+            margin-top: 30px;
+        }
